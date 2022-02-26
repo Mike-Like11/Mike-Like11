@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mike I</h1>
+<h1 align="center">Hi 👋,  I'm Mike I</h1>
 <h3 align="center">A fullstack, mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike-like11&label=Profile%20views&color=0e75b6&style=flat" alt="mike-like11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike-like11" alt="mike-like11" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, SwiftUI, Koltin**
+- 🌱 I’m currently learning **MERN, SwiftUI, Kotlin**
 
 
 <h3 align="left">Languages and Tools:</h3>
